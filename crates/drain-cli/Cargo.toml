@@ -1,0 +1,13 @@
+[package]
+name = "drain-cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+serde = { version = "1", features = ["derive"] }
+drain-network = { path = "../drain-network" }
+drain-corpus = { path = "../drain-corpus" }
+drain-score = { path = "../drain-score" }
+drain-tier = { path = "../drain-tier" }
+drain-gap = { path = "../drain-gap" }

@@ -1,0 +1,10 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/drain-network",
+    "crates/drain-corpus",
+    "crates/drain-score",
+    "crates/drain-tier",
+    "crates/drain-gap",
+    "crates/drain-cli",
+]
