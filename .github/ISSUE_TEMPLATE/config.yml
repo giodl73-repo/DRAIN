@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: DRAIN open adoption guide
+    url: https://github.com/giodl73-repo/DRAIN/blob/master/docs/adoption/README.md
+    about: Start here before proposing a first public sanitation-system run.

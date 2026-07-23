@@ -1,0 +1,34 @@
+name: First public run proposal
+description: Propose a bounded DRAIN source-backed sanitation-system analysis run.
+title: "First public run: "
+labels: ["first-run", "evidence-needed"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this to scope one bounded DRAIN run. Public reuse does not create engineering, permit, rate-case, consent-decree, endorsement, or validation claims.
+  - type: input
+    id: scope
+    attributes:
+      label: Bounded scope
+      placeholder: "Example: one utility overflow and wet-weather exposure"
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Sanitation promise question
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Source surfaces
+    validations:
+      required: true
+  - type: textarea
+    id: held
+    attributes:
+      label: Claims that must stay held
+    validations:
+      required: true
