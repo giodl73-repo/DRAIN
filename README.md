@@ -10,6 +10,28 @@ receiving-water impact at a declared scale.
 
 **Series:** [Applied Systems](https://github.com/giodl73-repo/giodl73-repo/blob/main/series/applied-systems.md)
 
+## Infrastructure 2.0 family
+
+DRAIN is one domain implementation of a shared evidence-first method:
+
+```text
+PUBLIC SOURCES → CORPUS → SCORE → SERVICE PROMISE → GAP MAP
+                                                     ↓
+                                      CONCEPT → REVIEW → DESIGN
+```
+
+| Lane | Repositories |
+|------|--------------|
+| Movement | [ROUTE](https://github.com/giodl73-repo/ROUTE), [GAUGE](https://github.com/giodl73-repo/GAUGE), [TARMAC](https://github.com/giodl73-repo/TARMAC), [HARBOR](https://github.com/giodl73-repo/HARBOR) |
+| Lifelines | [PYLON](https://github.com/giodl73-repo/PYLON), [PACKET](https://github.com/giodl73-repo/PACKET), [BASIN](https://github.com/giodl73-repo/BASIN), [DRAIN](https://github.com/giodl73-repo/DRAIN) |
+| Public access | [SHIELD](https://github.com/giodl73-repo/SHIELD), [SLATE](https://github.com/giodl73-repo/SLATE) |
+| Civic boundaries | [ZONES](https://github.com/giodl73-repo/ZONES) |
+
+The family shares evidence labels, explicit scale and demand bases, T1–T4
+service promises where meaningful, adversarial review, and acceptance of a
+rigorous null result. Each repository owns its domain semantics and safety
+boundary.
+
 > DRAIN is not an engineering study, treatment design, discharge-permit
 > application, rate case, consent-decree determination, or advocacy brief, and
 > it claims no EPA, state-agency, utility, or operator endorsement.
